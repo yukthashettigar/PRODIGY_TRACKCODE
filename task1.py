@@ -10,7 +10,7 @@ def caesar_cipher(text, shift, mode):
 
 def main():
     while True:
-        print("\nCaesar Cipher Program")
+        print("\nCaesar Cipher Program:")
         print("1. Encrypt")
         print("2. Decrypt")
         print("3. Quit")
