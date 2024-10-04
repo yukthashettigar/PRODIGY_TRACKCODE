@@ -7,7 +7,6 @@ conf.use_pcap = True
 
 # Initialize colorama
 init()
-
 # Define colors
 GREEN = Fore.GREEN
 RED = Fore.RED
